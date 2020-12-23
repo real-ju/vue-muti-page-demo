@@ -4,4 +4,4 @@
 
 2020-12-23更新：该项目并没有完全解决SEO的问题，使用SSR才是正解
 
-演示地址：<http://2201181566.gitee.io/vue-muti-page-demo>
+演示地址：<http://47.108.157.85/vue-muti-page-demo>
